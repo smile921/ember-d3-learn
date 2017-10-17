@@ -7,6 +7,11 @@ const Router = EmberRouter.extend({
 });
 
 Router.map(function() {
+  this.route('loading');
+  this.route('demo');
+  this.route('treemap');
+  this.route('listarea-treemap');
+  this.route('prime');
 });
 
 export default Router;

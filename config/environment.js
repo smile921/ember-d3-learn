@@ -3,6 +3,9 @@
 
 module.exports = function(environment) {
   let ENV = {
+    'ember-d3': {
+      except: [ ]
+    },
     modulePrefix: 'ember-d3-demo',
     environment,
     rootURL: '/',

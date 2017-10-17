@@ -1,0 +1,90 @@
+
+<h2>Prime number patterns </h2>
+<style>
+body {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  text-align: center;
+  min-width: 500px;
+  min-height: 500px;
+}
+svg {
+  display: block;
+}
+#header {
+  position: absolute;
+  left: 50%;
+  width: 800px;
+  margin-left: -400px;
+}
+#about {
+  clear: right;
+}
+#close {
+  float: right;
+  text-decoration: none;
+  color: #000;
+}
+@font-face {
+  font-family: AnglicanText;
+  src: url(AnglicanText.ttf);
+}
+h1 {
+  font-size: 3.5em;
+  margin: .3em 0 0;
+}
+h2 {
+  font-size: 2em;
+  margin: .3em 0;
+}
+h1, h2 {
+  font-family: AnglicanText, sans-serif;
+  font-weight: 300;
+}
+line, path {
+  stroke: #ccc;
+  fill: none;
+}
+.highlight {
+  stroke: #000;
+}
+rect {
+  fill: none;
+  pointer-events: all;
+}
+#vis {
+  cursor: col-resize;
+}
+p.meta {
+  font-style: italic;
+  font-size: small;
+}
+p.copyright {
+  display: none;
+}
+</style>
+
+
+
+<div id="header">
+  <a href="#close" id="close">×</a>
+  <div id="about">
+    <h1>El Patrón de los Números Primos</h1>
+    <h2>Prime Number Patterns</h2>
+    <p class="meta">by </p>
+    <a href="#">Jason Davies</a>.
+    <p>For each natural number <em>n</em>, 
+    we draw a periodic curve starting from the origin, intersecting the x-axis at <em>n</em> and its multiples.
+     The prime numbers are those that have been intersected by <em>only two</em> curves:
+      the prime number itself and one.</p>
+    <p>Below the currently highlighted number, we also show its <a href="#">sum of divisors</a> <em>σ(n)</em>, and its aliquot sum <em>s(n) = σ(n) - n</em>, which indicate whether the number is <a href="#">prime</a>, <a href="#">deficient</a>, <a href="#">perfect</a> or <a href="#">abundant</a>.</p>
+    <p class="meta">Based on <a href="#">Sobre el patrón de los números primos</a> by Omar E. Pol.</p>
+  </div>
+</div>
+<div id="vis"></div> 
+<script>
+
+</script>
+
+{{yield}}
