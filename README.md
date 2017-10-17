@@ -4,6 +4,7 @@ This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
 
 ## Preview
+## treemap 预览
 ![](https://github.com/smile921/ember-d3-learn/raw/master/page/QQ%E6%88%AA%E5%9B%BE20171017173448.png)
 ## Prerequisites
 
