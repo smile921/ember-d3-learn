@@ -12,6 +12,9 @@ Router.map(function() {
   this.route('treemap');
   this.route('listarea-treemap');
   this.route('prime');
+  this.route('pack');
+  this.route('buble-zjex');
+  this.route('buble-zjex1');
 });
 
 export default Router;

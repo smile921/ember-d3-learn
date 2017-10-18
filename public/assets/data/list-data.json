@@ -1,0 +1,537 @@
+{
+    "name": "浙江省",
+    "children": [
+        {
+            "name": "丽水市",
+            "children": [
+                {
+                    "name": "云和县",
+                    "children": [],
+                    "size": 23
+                },
+                {
+                    "name": "庆元县",
+                    "children": [],
+                    "size": 28
+                },
+                {
+                    "name": "景宁县",
+                    "children": [],
+                    "size": 12
+                },
+                {
+                    "name": "景宁畲族自治县",
+                    "children": [],
+                    "size": 2
+                },
+                {
+                    "name": "松阳县",
+                    "children": [],
+                    "size": 20
+                },
+                {
+                    "name": "缙云县",
+                    "children": [],
+                    "size": 33
+                },
+                {
+                    "name": "莲都区",
+                    "children": [],
+                    "size": 74
+                },
+                {
+                    "name": "遂昌县",
+                    "children": [],
+                    "size": 19
+                },
+                {
+                    "name": "青田县",
+                    "children": [],
+                    "size": 31
+                },
+                {
+                    "name": "龙泉市",
+                    "children": [],
+                    "size": 33
+                }
+            ],
+            "size": 275
+        },
+        {
+            "name": "台州市",
+            "children": [
+                {
+                    "name": "三门县",
+                    "children": [],
+                    "size": 27
+                },
+                {
+                    "name": "临海市",
+                    "children": [],
+                    "size": 70
+                },
+                {
+                    "name": "仙居县",
+                    "children": [],
+                    "size": 34
+                },
+                {
+                    "name": "台州经济开发区",
+                    "children": [],
+                    "size": 1
+                },
+                {
+                    "name": "天台县",
+                    "children": [],
+                    "size": 52
+                },
+                {
+                    "name": "椒江区",
+                    "children": [],
+                    "size": 56
+                },
+                {
+                    "name": "温岭市",
+                    "children": [],
+                    "size": 128
+                },
+                {
+                    "name": "玉环市",
+                    "children": [],
+                    "size": 52
+                },
+                {
+                    "name": "路桥区",
+                    "children": [],
+                    "size": 46
+                },
+                {
+                    "name": "黄岩区",
+                    "children": [],
+                    "size": 49
+                }
+            ],
+            "size": 515
+        },
+        {
+            "name": "嘉兴市",
+            "children": [
+                {
+                    "name": "南湖区",
+                    "children": [],
+                    "size": 33
+                },
+                {
+                    "name": "嘉善县",
+                    "children": [],
+                    "size": 9
+                },
+                {
+                    "name": "平湖市",
+                    "children": [],
+                    "size": 11
+                },
+                {
+                    "name": "桐乡市",
+                    "children": [],
+                    "size": 21
+                },
+                {
+                    "name": "海宁市",
+                    "children": [],
+                    "size": 49
+                },
+                {
+                    "name": "海盐县",
+                    "children": [],
+                    "size": 7
+                },
+                {
+                    "name": "秀洲区",
+                    "children": [],
+                    "size": 13
+                },
+                {
+                    "name": "郊  区",
+                    "children": [],
+                    "size": 1
+                }
+            ],
+            "size": 144
+        },
+        {
+            "name": "杭州市",
+            "children": [
+                {
+                    "name": "上城区",
+                    "children": [],
+                    "size": 25
+                },
+                {
+                    "name": "下城区",
+                    "children": [],
+                    "size": 23
+                },
+                {
+                    "name": "临安市",
+                    "children": [],
+                    "size": 20
+                },
+                {
+                    "name": "余杭区",
+                    "children": [],
+                    "size": 267
+                },
+                {
+                    "name": "富阳市",
+                    "children": [],
+                    "size": 17
+                },
+                {
+                    "name": "建德市",
+                    "children": [],
+                    "size": 6
+                },
+                {
+                    "name": "拱墅区",
+                    "children": [],
+                    "size": 47
+                },
+                {
+                    "name": "桐庐县",
+                    "children": [],
+                    "size": 34
+                },
+                {
+                    "name": "江干区",
+                    "children": [],
+                    "size": 337
+                },
+                {
+                    "name": "淳安县",
+                    "children": [],
+                    "size": 2
+                },
+                {
+                    "name": "滨江区",
+                    "children": [],
+                    "size": 53
+                },
+                {
+                    "name": "萧山区",
+                    "children": [],
+                    "size": 100
+                },
+                {
+                    "name": "西湖区",
+                    "children": [],
+                    "size": 96
+                }
+            ],
+            "size": 1027
+        },
+        {
+            "name": "温州市",
+            "children": [
+                {
+                    "name": "乐清市",
+                    "children": [],
+                    "size": 56
+                },
+                {
+                    "name": "平阳县",
+                    "children": [],
+                    "size": 20
+                },
+                {
+                    "name": "文成县",
+                    "children": [],
+                    "size": 15
+                },
+                {
+                    "name": "永嘉县",
+                    "children": [],
+                    "size": 27
+                },
+                {
+                    "name": "泰顺县",
+                    "children": [],
+                    "size": 6
+                },
+                {
+                    "name": "洞头县",
+                    "children": [],
+                    "size": 7
+                },
+                {
+                    "name": "瑞安市",
+                    "children": [],
+                    "size": 87
+                },
+                {
+                    "name": "瓯海区",
+                    "children": [],
+                    "size": 58
+                },
+                {
+                    "name": "苍南县",
+                    "children": [],
+                    "size": 26
+                },
+                {
+                    "name": "鹿城区",
+                    "children": [],
+                    "size": 97
+                },
+                {
+                    "name": "龙湾区",
+                    "children": [],
+                    "size": 106
+                }
+            ],
+            "size": 505
+        },
+        {
+            "name": "湖州市",
+            "children": [
+                {
+                    "name": "南浔区",
+                    "children": [],
+                    "size": 69
+                },
+                {
+                    "name": "吴兴区",
+                    "children": [],
+                    "size": 141
+                },
+                {
+                    "name": "安吉县",
+                    "children": [],
+                    "size": 80
+                },
+                {
+                    "name": "德清县",
+                    "children": [],
+                    "size": 99
+                },
+                {
+                    "name": "长兴县",
+                    "children": [],
+                    "size": 157
+                }
+            ],
+            "size": 546
+        },
+        {
+            "name": "衢州市",
+            "children": [
+                {
+                    "name": "常山县",
+                    "children": [],
+                    "size": 30
+                },
+                {
+                    "name": "开化县",
+                    "children": [],
+                    "size": 17
+                },
+                {
+                    "name": "柯城区",
+                    "children": [],
+                    "size": 29
+                },
+                {
+                    "name": "江山市",
+                    "children": [],
+                    "size": 56
+                },
+                {
+                    "name": "衢江区",
+                    "children": [],
+                    "size": 22
+                },
+                {
+                    "name": "龙游县",
+                    "children": [],
+                    "size": 15
+                }
+            ],
+            "size": 169
+        },
+        {
+            "name": "宁波市",
+            "children": [
+                {
+                    "name": "余姚市",
+                    "children": [],
+                    "size": 5
+                },
+                {
+                    "name": "北仑区",
+                    "children": [],
+                    "size": 6
+                },
+                {
+                    "name": "奉化市",
+                    "children": [],
+                    "size": 34
+                },
+                {
+                    "name": "宁海县",
+                    "children": [],
+                    "size": 4
+                },
+                {
+                    "name": "慈溪市",
+                    "children": [],
+                    "size": 4
+                },
+                {
+                    "name": "江东区",
+                    "children": [],
+                    "size": 8
+                },
+                {
+                    "name": "江北区",
+                    "children": [],
+                    "size": 7
+                },
+                {
+                    "name": "海曙区",
+                    "children": [],
+                    "size": 1
+                },
+                {
+                    "name": "象山县",
+                    "children": [],
+                    "size": 1
+                },
+                {
+                    "name": "鄞州区",
+                    "children": [],
+                    "size": 25
+                },
+                {
+                    "name": "镇海区",
+                    "children": [],
+                    "size": 14
+                }
+            ],
+            "size": 109
+        },
+        {
+            "name": "舟山市",
+            "children": [
+                {
+                    "name": "定海区",
+                    "children": [],
+                    "size": 63
+                },
+                {
+                    "name": "岱山县",
+                    "children": [],
+                    "size": 8
+                },
+                {
+                    "name": "嵊泗县",
+                    "children": [],
+                    "size": 1
+                },
+                {
+                    "name": "普陀区",
+                    "children": [],
+                    "size": 22
+                }
+            ],
+            "size": 94
+        },
+        {
+            "name": "金华市",
+            "children": [
+                {
+                    "name": "东阳市",
+                    "children": [],
+                    "size": 123
+                },
+                {
+                    "name": "义乌市",
+                    "children": [],
+                    "size": 36
+                },
+                {
+                    "name": "兰溪市",
+                    "children": [],
+                    "size": 33
+                },
+                {
+                    "name": "婺城区",
+                    "children": [],
+                    "size": 35
+                },
+                {
+                    "name": "永康市",
+                    "children": [],
+                    "size": 62
+                },
+                {
+                    "name": "浦江县",
+                    "children": [],
+                    "size": 3
+                },
+                {
+                    "name": "金东区",
+                    "children": [],
+                    "size": 18
+                }
+            ],
+            "size": 310
+        },
+        {
+            "name": "绍兴市",
+            "children": [
+                {
+                    "name": "上虞区",
+                    "children": [],
+                    "size": 71
+                },
+                {
+                    "name": "嵊州市",
+                    "children": [],
+                    "size": 54
+                },
+                {
+                    "name": "新昌县",
+                    "children": [],
+                    "size": 35
+                },
+                {
+                    "name": "柯桥区",
+                    "children": [],
+                    "size": 107
+                },
+                {
+                    "name": "滨海新城",
+                    "children": [],
+                    "size": 1
+                },
+                {
+                    "name": "诸暨市",
+                    "children": [],
+                    "size": 132
+                },
+                {
+                    "name": "越城区",
+                    "children": [],
+                    "size": 66
+                }
+            ],
+            "size": 466
+        },
+        {
+            "name": "其他地区",
+            "children": [],
+            "size": 6
+        }
+    ],
+    "size": 0
+}
