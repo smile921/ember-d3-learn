@@ -6,6 +6,13 @@ A short introduction of this app could easily go here.
 ## Preview
 ## treemap 预览
 ![](https://github.com/smile921/ember-d3-learn/raw/master/page/QQ%E6%88%AA%E5%9B%BE20171017173448.png)
+
+## buble pack  预览
+![](https://github.com/smile921/ember-d3-learn/raw/master/page/QQ%E6%88%AA%E5%9B%BE20171018145900.png)
+![](https://github.com/smile921/ember-d3-learn/raw/master/page/QQ%E6%88%AA%E5%9B%BE20171018145926.png)
+## noncontain buble pack 预览
+![](https://github.com/smile921/ember-d3-learn/raw/master/page/QQ%E6%88%AA%E5%9B%BE20171018150050.png)
+
 ## Prerequisites
 
 You will need the following things properly installed on your computer.
