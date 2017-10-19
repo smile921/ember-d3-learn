@@ -15,6 +15,8 @@ Router.map(function() {
   this.route('pack');
   this.route('buble-zjex');
   this.route('buble-zjex1');
+  this.route('visit-sequence');
+  this.route('area-visit');
 });
 
 export default Router;

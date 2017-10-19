@@ -13,6 +13,9 @@ A short introduction of this app could easily go here.
 ## noncontain buble pack 预览
 ![](https://github.com/smile921/ember-d3-learn/raw/master/page/QQ%E6%88%AA%E5%9B%BE20171018150050.png)
 
+##  分布占比预览
+![](https://github.com/smile921/ember-d3-learn/raw/master/page/QQ%E6%88%AA%E5%9B%BE20171019100833.png)
+ 
 ## Prerequisites
 
 You will need the following things properly installed on your computer.
