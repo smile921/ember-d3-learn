@@ -17,6 +17,7 @@ Router.map(function() {
   this.route('buble-zjex1');
   this.route('visit-sequence');
   this.route('area-visit');
+  this.route('collision-detection');
 });
 
 export default Router;
